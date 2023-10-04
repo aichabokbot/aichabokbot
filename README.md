@@ -1,10 +1,7 @@
 I'm Aicha Bokbot, Machine Learning Engineer based in Paris, France.
 
 ### Portfolio
-<p float="left">
-  <a href="https://github.com/aichabokbot/wikipedia-search-engine target="_blank""><img src="https://github.com/aichabokbot/aichabokbot/assets/46371012/2610d8ca-c53a-442e-959b-1147a3fbc91a" width="400" /></a>
-  <a href="https://github.com/aichabokbot/question-generation target="_blank""><img src="https://github.com/aichabokbot/aichabokbot/assets/46371012/5a8b8be8-fa57-4cc9-af2a-b87e3a0c5aed" width="400" /></a>
-</p>
+<a href="https://github.com/aichabokbot/wikipedia-search-engine" target="_blank"><img align="center" src="https://github.com/aichabokbot/aichabokbot/assets/46371012/2610d8ca-c53a-442e-959b-1147a3fbc91a" width="400" /></a> <a href="https://github.com/aichabokbot/question-generation" target="_blank"><img align="center" src="https://github.com/aichabokbot/aichabokbot/assets/46371012/5a8b8be8-fa57-4cc9-af2a-b87e3a0c5aed" width="400" /></a>
 
 
 
