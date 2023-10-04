@@ -1,4 +1,12 @@
-### Hi there 👋
+I'm Aicha Bokbot, Machine Learning Engineer based in Paris, France.
+
+# Portfolio
+
+# Medium articles
+
+# How to reach me
+<a href="https://linkedin.com/in/aichabokbot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aichabokbot" height="30" width="40" /></a>
+
 
 <!--
 **aichabokbot/aichabokbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
