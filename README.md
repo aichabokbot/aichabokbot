@@ -3,7 +3,7 @@
 I'm Aicha Bokbot, Machine Learning Engineer based in Paris, France.
 
 ### Portfolio
-![image alt >](https://github.com/aichabokbot/aichabokbot/assets/46371012/8e6c70d5-ba8f-46e4-bbb3-70c888299afe) ![image alt <](https://github.com/aichabokbot/aichabokbot/assets/46371012/f4ca011e-3347-4bf8-a1b4-2648b2e08684)
+![image](https://github.com/aichabokbot/aichabokbot/assets/46371012/56dff957-a652-49a2-89df-34e9ae89202b)
 
 ### Medium articles
 <li><a href="https://towardsdatascience.com/4-ways-to-encode-categorical-features-with-high-cardinality-1bc6d8fd7b13"><b>4 Ways to Encode Categorical Features with High Cardinality — with Python Implementation</b></a><br/><i>Learn to apply target encoding, count encoding, feature hashing and Embedding using scikit-learn and TensorFlow</i></li>
