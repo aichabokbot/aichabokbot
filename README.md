@@ -1,5 +1,3 @@
-I'm Aicha Bokbot, Machine Learning Engineer based in Paris, France.
-
 ### Portfolio
 <a href="https://github.com/aichabokbot/wikipedia-search-engine" target="_blank"><img align="center" src="wikipedia_search_engine_preview.png" alt="aichabokbot" width="400" /></a> <a href="https://github.com/aichabokbot/question-generation" target="_blank"><img align="center" src="question_generator_preview.png" alt="aichabokbot" width="400" /></a>
 
