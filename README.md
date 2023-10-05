@@ -1,5 +1,3 @@
-<div class="background: white;">
-
 ### <span style="color:black">Portfolio</span>
 
 <a href="https://github.com/aichabokbot/wikipedia-search-engine" target="_blank"><img align="center" src="wikipedia_search_engine_preview.png" alt="aichabokbot" width="400" /></a> <a href="https://github.com/aichabokbot/question-generation" target="_blank"><img align="center" src="question_generator_preview.png" alt="aichabokbot" width="400" /></a>
@@ -10,5 +8,3 @@
 
 ### <span style="color:black">Where to find me</span>
 <a href="https://linkedin.com/in/aichabokbot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aichabokbot" height="30" width="40" /></a> <a href="https://medium.com/@aichabokbot" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="aichabokbot" height="30" width="30" /></a><>
-
-</div>
