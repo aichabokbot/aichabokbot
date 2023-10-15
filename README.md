@@ -1,6 +1,6 @@
 ## <span style="color:black">Portfolio</span>
 
-<a href="https://github.com/aichabokbot/wikipedia-search-engine" target="_blank"><img align="center" src="wikipedia_search_engine_preview.png" alt="aichabokbot" width="400" /></a> <a href="https://github.com/aichabokbot/question-generation" target="_blank"><img align="center" src="img/question_generator_preview.png" alt="aichabokbot" width="400" /></a>
+<a href="https://github.com/aichabokbot/wikipedia-search-engine" target="_blank"><img align="center" src="img/wikipedia_search_engine_preview.png" alt="aichabokbot" width="400" /></a> <a href="https://github.com/aichabokbot/question-generation" target="_blank"><img align="center" src="img/question_generator_preview.png" alt="aichabokbot" width="400" /></a>
 
 
 ## <span style="color:black">Medium articles</span>
