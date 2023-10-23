@@ -5,9 +5,9 @@
 
 
 ## <span style="color:black">Medium articles</span>
-<li><a href="https://towardsdatascience.com/what-happens-when-most-content-online-becomes-ai-generated-684dde2a150d" target="_blank"><b>What Happens When Most Content Online Becomes AI-Generated?</b></a><br/><i>Learn how generative models deteriorate when trained on the data they generate, and what to do about it</i></li>
+<li><a href="https://towardsdatascience.com/what-happens-when-most-content-online-becomes-ai-generated-684dde2a150d" target="_blank"><b>What Happens When Most Content Online Becomes AI-Generated?</b></a><br/><i>Learn how generative models deteriorate when trained on the data they generate, and what to do about it.</i></li>
 
-<li><a href="https://towardsdatascience.com/4-ways-to-encode-categorical-features-with-high-cardinality-1bc6d8fd7b13" target="_blank"><b>4 Ways to Encode Categorical Features with High Cardinality — with Python Implementation</b></a><br/><i>Learn to apply target encoding, count encoding, feature hashing and Embedding using scikit-learn and TensorFlow</i></li>
+<li><a href="https://towardsdatascience.com/4-ways-to-encode-categorical-features-with-high-cardinality-1bc6d8fd7b13" target="_blank"><b>4 Ways to Encode Categorical Features with High Cardinality — with Python Implementation</b></a><br/><i>Learn to apply target encoding, count encoding, feature hashing and Embedding using scikit-learn and TensorFlow.</i></li>
 
 
 
