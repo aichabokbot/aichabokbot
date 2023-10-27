@@ -4,6 +4,7 @@
 <a href="https://github.com/aichabokbot/celebrity-lookalike" target="_blank"><img align="center" src="img/celebrity_lookalike_preview.jpeg" alt="aichabokbot" width="400" /></a>
 
 
+
 ## <span style="color:black">Medium articles</span>
 <li><a href="https://towardsdatascience.com/what-happens-when-most-content-online-becomes-ai-generated-684dde2a150d" target="_blank"><b>What Happens When Most Content Online Becomes AI-Generated?</b></a><br/><i>Learn how generative models deteriorate when trained on the data they generate, and what to do about it.</i></li>
 
