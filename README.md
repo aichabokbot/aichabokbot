@@ -3,7 +3,7 @@
 <a href="https://github.com/aichabokbot/wikipedia-search-engine" target="_blank"><img align="center" src="img/wikipedia_search_engine_preview.jpeg" alt="aichabokbot" width="400" /></a> 
 <a href="https://github.com/aichabokbot/question-generation" target="_blank"><img align="center" src="img/question_generator_preview.jpeg" alt="aichabokbot" width="400" /></a>
 <a href="https://github.com/aichabokbot/celebrity-lookalike" target="_blank"><img align="center" src="img/celebrity_lookalike_preview.jpeg" alt="aichabokbot" width="400" /></a>
-<a href="https://github.com/aichabokbot/spotify-playlist-continuation" target="_blank"><img align="center" src="imgcelebrity_lookalike_preview.jpeg" alt="aichabokbot" width="400" /></a>
+<a href="https://github.com/aichabokbot/spotify-playlist-continuation" target="_blank"><img align="center" src="img/celebrity_lookalike_preview.jpeg" alt="aichabokbot" width="400" /></a>
 
 
 ## <span style="color:black">Medium articles</span>
